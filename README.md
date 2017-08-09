@@ -1,3 +1,6 @@
 # hello-world
 まずは書いてみるよー！
-GitHub上でEdit
+# さらに編集
+GitHub上でEdit  
+改行ってどうやるんだろ  
+行末に半角スペース2つだった。
